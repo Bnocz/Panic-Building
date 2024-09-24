@@ -1,3 +1,4 @@
 # Panic-Building
 
-Bertram Nocon (a00971990)
+Bertram Nocon (A00971990)
+Susan Li (A01067674)
