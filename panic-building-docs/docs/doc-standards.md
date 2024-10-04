@@ -17,3 +17,12 @@ If you are assigned an issue tagged `Documentation Required`, please make sure y
 - When you use a code example, mark with 3 upticks ``` - do not just paste code.
 - Keep your docs in the correct categories, make one if it doesn't exist.
 
+## Doc Structure
+Please follow this structure for all documentation:
+1. Last Updated - when the doc was last updated (does not have to be a header, e.g. **Last Updated**: Oct. 03, 2024)
+2. Overview - high level summary of the documentation
+3. Documentation - split this up into categories as needed
+4. Future Considerations - optional, add if there's things other developers ought to keep in mind, e.g. scalability issues
+5. Conclusion - optional
+
+2 to 5 should all be in H2 headers, `##`
