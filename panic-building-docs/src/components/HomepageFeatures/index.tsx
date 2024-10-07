@@ -60,9 +60,12 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+          This is the consolidated documentation for our game, Panic Building. You can find the important links here:
+        </div>
+        <div>
+          <li><a href="https://github.com/Bnocz/Panic-Building">GitHub Repo</a> - this is mostly for documentation</li>
+          <li><a href="https://docs.google.com/document/d/1sYGxGy3A5KbAyIFIqHYJd-VY57G6asHmddzmEaPi--o/edit?usp=sharing">Perforce Guide</a> - for our version control</li>
+          <li><a href="https://github.com/users/Bnocz/projects/1">Project Board</a> - where our project management and current issues are handled</li>
         </div>
       </div>
     </section>
